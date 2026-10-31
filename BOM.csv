@@ -1,0 +1,15 @@
+Item,Designator,Component,Package,Quantity,Description,Supplier,Part Number,Link
+1,U6,ESP32-D0WD-V3,QFN-48,1,Espressif Dual-Core 240MHz Wi-Fi/BLE SoC,LCSC,C473041,https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_Espressif-Systems-ESP32-D0WD-V3_C473041.html
+2,U7,W25Q32JVTBIQ,TFBGA-24,1,Winbond 32M-bit SPI NOR Flash Memory,LCSC,C82320,https://www.lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q32JVSSIQ_C82320.html
+3,U1,CH340C,SOP-16,1,WCH USB to Serial UART Bridge with Built-in Crystal,LCSC,C85293,https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH340C_C85293.html
+4,U5,TP4056,ESOP-8,1,1A Standalone Linear Li-Ion Battery Charger,LCSC,C16581,https://www.lcsc.com/product-detail/Battery-Management-ICs_TOP-POWER-TP4056_C16581.html
+5,LDO1,ME6211C33M5G-N,SOT-23-5,1,Microne 3.3V 500mA Low Dropout Linear Regulator,LCSC,C82942,https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_MICRONE-Nanjing-Micro-One-Elec-ME6211C33M5G_C82942.html
+6,USB1,GT-USB-7010E,SMD,1,16-Pin USB Type-C Receptacle Connector,LCSC,C2765186,https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C2765186.html
+7,X1,40MHz Crystal,SMD-3225-4P,1,40MHz +/-10ppm 10pF Fundamental Crystal Unit,LCSC,C32408,https://www.lcsc.com/product-detail/Crystals_YXC-X322540MOB4SI_C32408.html
+8,ANT1,CW324S-01,SMD-3216,1,2.4GHz SMD Ceramic Chip Antenna,LCSC,C73087,https://www.lcsc.com/product-detail/Antennas_Walsin-Tech-Corp-RFANT3216120A5T_C73087.html
+9,U2,BX-PH2.0-2PZZ,TH-2P,1,JST PH2.0 2-Pin Male Battery Connector,LCSC,C131337,https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-BX-PH2-0-2PZZ_C131337.html
+10,"U3, U4",TS-1187,SMD-5.2x5.2mm,2,Tactile Pushbutton Switch (Reset / Boot),LCSC,C318884,https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187A-C-A-B_C318884.html
+11,Q1,AO3401A,SOT-23,1,AOS P-Channel 30V 4.2A Power MOSFET,LCSC,C15127,https://www.lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO3401A_C15127.html
+12,"Q2, Q3",MMBT3904,SOT-23,2,NPN General Purpose Transistor (Auto-Download),LCSC,C21144,https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_JCET-Changjiang-Elec-Tech-MMBT3904_C21144.html
+13,D1,B5819W,SOD-123,1,1A 40V Schottky Barrier Diode,LCSC,C8598,https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Guangdong-Hottech-B5819W_C8598.html
+14,"H1, H2",HDR-TH_8P-P2.54,TH-1x8P,2,2.54mm Pitch 1x8 Male Pin Header,LCSC,C492404,https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-1-8P-2-54mm_C492404.html
