@@ -13,10 +13,10 @@ I am building this because an esp32 with a battery charger in a small form would
 ## Pictures
 
 ### 3D Model
-![3D Model](Images/3d_Model.png)
+![3D Model](images/3D_Model.png)
 
 ### PCB
-![PCB Layout](Images/PCB.png)
+![PCB Layout](images/PCB.png)
 
 ---
 
